@@ -1,0 +1,7 @@
+gsap.from  ('.one', {y: 350, duration: 2})
+gsap.from ('.two', {y: -20, duration: 2.5})
+gsap.from ('.three', {y: 180, duration: 3})
+gsap.from ('.four', {y: -150, duration: 2})
+gsap.from ('.five', {y: 250, duration: 3})
+gsap.from ('.six', {y: -20, duration: 2})
+gsap.from ('.info', {x: 100, duration: 2})
